@@ -29,15 +29,16 @@ GND to GND on the Arduino
 SDA to A4 on the Arduino
 SCL to A5 on the Arduino
 
-3. Installing Required Libraries:
+3. Installing Required Libraries and Coding:
 Install the DHT library for the sensor.
 Install the LiquidCrystal_I2C library for the LCD display.
 To install libraries: Open the Arduino IDE -> Go to Sketch -> Include Library -> Manage Libraries... -> Search and install the libraries.
+Code the requirement.
 
-4. Uploading the Code:
+5. Uploading the Code:
 Connect your Arduino to your computer using a USB cable.
 Select the appropriate board and port in the Arduino IDE.
 Click the Upload button to transfer the code to the Arduino.
-5. Testing:
+6. Testing:
 Once the code is uploaded, the LCD should display the current temperature and humidity readings.
 If the readings are not displaying or are incorrect, check the wiring and connections.
